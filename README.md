@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Gokay Gok</h1>
-<h3 align="center">I am a Python Developer</h3>
+<h3 align="center">I am a Software Engineer</h3>
 
 
 <p align="left">
